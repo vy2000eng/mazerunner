@@ -1,0 +1,4 @@
+/home/voldemort/CLionProjects/f_maze_2/cmake-build-debug/CMakeFiles/f_maze_2.dir
+/home/voldemort/CLionProjects/f_maze_2/cmake-build-debug/CMakeFiles/player_randommove.dir
+/home/voldemort/CLionProjects/f_maze_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voldemort/CLionProjects/f_maze_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
